@@ -11,6 +11,12 @@ This project demonstrates:
 
 ---
 
+# Demo
+
+![Demo](assets/project_screenshot.png)
+
+---
+
 ## Physics Model
 
 We simulate the 1D advection-diffusion equation:
