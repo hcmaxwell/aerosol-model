@@ -41,5 +41,10 @@ Where:
 
 ## Installation
 
-Clone the repo:
+Clone the repository:
 
+```bash
+git clone https://github.com/hcmaxwell/aerosol-model.git
+cd aerosol-model
+pip install -r requirements.txt
+python main.py
